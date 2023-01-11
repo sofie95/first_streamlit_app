@@ -2,7 +2,7 @@ import streamlit as st
 
 st.title('My Parents New Healthy Diner')
 
-st.sheader('Breakfast Menu')
+st.header('Breakfast Menu')
 
 st.text('Omega 3 & Blueberry Oatmeal')
 
