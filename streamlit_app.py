@@ -10,7 +10,7 @@ my_fruit_list = my_fruit_list.set_index('Fruit')
 
 st.title('My Mom\'s New Healthy Diner')
 
-st.header('Breakfast Menu')
+st.header('Breakfast Favorites')
 
 st.text('🥣 Omega 3 & Blueberry Oatmeal')
 
