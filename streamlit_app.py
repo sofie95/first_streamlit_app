@@ -81,8 +81,5 @@ if st.button('Add Fruit to the List'):
   back_from_function = insert_row_snowflake(add_my_fruit)
   st.text(back_from_function)
 
-#don't run past here while trouble shooting
-st.stop()
-
 
 
