@@ -53,7 +53,7 @@ st.header("The fruit load list contains:")
 st.dataframe(my_data_rows)
 
 # try to add another entry box
-fruit_add = st.text_input('What fruit would you like to add?','Kiwi')
-st.write('The user entered ', fruit_add)
+fruit_add = st.text_input('What fruit would you like to add?','jackfruit')
+st.write('Thanks for adding ', fruit_add)
 
 
