@@ -42,7 +42,7 @@ try:
     fruityvice_normalized = pd.json_normalize(fruityvice_response.json())
     st.dataframe(fruityvice_normalized)
 
-exept URLError as e:
+except URLError as e:
   st.error()
 
 
